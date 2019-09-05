@@ -1,4 +1,4 @@
-package com.decre.scala.demo.test
+package com.decre.scala.demo.basetest
 
 import scala.collection.mutable.ArrayBuffer
 
